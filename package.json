@@ -1,0 +1,17 @@
+{
+  "name": "pull-couchdb-changes",
+  "version": "0.0.0",
+  "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
+  "dependencies": {
+    "flush-write-stream": "^1.0.0",
+    "http-https": "^1.0.0",
+    "object-assign": "^4.1.0",
+    "pump": "^1.0.1",
+    "split2": "^2.1.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "license": "MIT",
+  "repository": "kemitchell/pull-couchdb-changes.js"
+}
